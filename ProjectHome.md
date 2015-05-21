@@ -1,0 +1,1 @@
+MySepta is an Android application that aims to provide SEPTA’s riders who have access to an Android mobile web, the ability to search SEPTA transportation schedules. MySepta also provides the users with news alerts from SEPTA twitter, SEPTA info, and there is a feature that saves users’ most frequently used schedules.
